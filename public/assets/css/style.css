@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+}
+.ranking{
+    background: gold;
+    border-left: 4px solid goldenrod;
+    border-right: 4px solid goldenrod;
+    border-bottom: 4px solid goldenrod;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-left: 2em;
+    padding-right: 0.2em;
+    padding-left: 0.2em;
+}
